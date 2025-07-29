@@ -1,0 +1,17 @@
+# Comandes per connectar amb GitHub
+# Executa aquestes comandes després de crear el repositori a GitHub
+
+# 1. Afegir el repositori remot
+git remote add origin https://github.com/eduardiag/hello-world-python.git
+
+# 2. Canviar a la branca main (estàndard actual de GitHub)
+git branch -M main
+
+# 3. Pujar el codi a GitHub
+git push -u origin main
+
+# Comandes útils per al futur:
+# - Veure l'estat: git status
+# - Afegir canvis: git add .
+# - Fer commit: git commit -m "Descripció dels canvis"
+# - Pujar canvis: git push

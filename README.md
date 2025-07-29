@@ -1,6 +1,6 @@
 # Hello World Python 🐍
 
-Un projecte simple en Python per aprendre els conceptes bàsics de programació i Git/GitHub.
+Un projecte simple en Python.
 
 ## Descripció
 
